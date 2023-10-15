@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+   "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Supreme Court: India court hears historic same sex marriage case",
+    "description": "All eyes are on the Supreme Court as it hears petitions seeking legalisation of same-sex unions.",
+    "url": "http://www.bbc.co.uk/news/world-asia-india-65061266",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7BCA/production/_129109613_whatsappimage2023-03-22at8.24.43pm.jpg",
+    "publishedAt": "2023-04-18T13:37:26.5475471Z",
+    "content": "The Indian Supreme Court is hearing final arguments on a number of petitions seeking to legalise same-sex marriage. The hearings are being \"livestreamed in public interest\".\r\nWith same sex couples an… [+8509 chars]"
+    },
+    {
+   "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ralph Yarl: Doctors cannot believe boy survived shooting, mother says",
+    "description": "The 16-year-old who was shot after ringing the wrong doorbell in Missouri is recovering at home.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65313894",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12669/production/_129396357_yarl-index-reuters.jpg",
+    "publishedAt": "2023-04-18T13:37:22.3437006Z",
+    "content": "Media caption, Watch: Ralph's mother, Cleo Nagbe, speaks to CBS about his injuries\r\nDoctors treating a teenage boy who was shot twice after ringing the wrong doorbell in Missouri say they have no ide… [+2871 chars]"
+    },
+    {
+   "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Evan Gershkovich: US journalist arrested in Russia appears in court",
+    "description": "Evan Gershkovich was working for the Wall Street Journal when he was detained on spying charges.",
+    "url": "http://www.bbc.co.uk/news/world-europe-65310529",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16F25/production/_129398939_gerskovich.jpg",
+    "publishedAt": "2023-04-18T10:07:20.9227233Z",
+    "content": "He was arrested in the city of Yekaterinburg while working for the Wall Street Journal (WSJ) newspaper and charged with spying."
+    },
+    {
+   "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Timed Teaser: Who didn't make the coronation guest list?",
+    "description": "Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go!",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65295378",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10836/production/_129383676_kingdex.jpg",
+    "publishedAt": "2023-04-18T07:52:14.5000401Z",
+    "content": "Test your news knowledge against the clock. Can you outscore your friends? \r\nIf you cannot see the quiz, follow this link.\r\nWant more of the same? Try last week's teaser, or take Friday's quiz of the… [+104 chars]"
+    },
+    {
+   "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: Putin visits occupied Kherson region, says Kremlin",
+    "description": "It is the Russian leader's first visit to occupied areas of Ukraine since he travelled to Mariupol.",
+    "url": "http://www.bbc.co.uk/news/world-europe-65308470",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/151C5/production/_129396468_putin.jpg",
+    "publishedAt": "2023-04-18T06:37:20.2360955Z",
+    "content": "Russian President Vladimir Putin has reportedly visited occupied parts of the Ukrainian region of Kherson, according to the Kremlin. \r\nHe is said to have attended a military command meeting to hear r… [+935 chars]"
+    },
+    {
+   "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Kaylin Gillis: Woman shot dead in New York state after friend pulled into wrong driveway",
+    "description": "Kaylin Gillis is shot when the car she is in pulls into the wrong driveway in rural New York state.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65307556",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/649F/production/_129395752_mediaitem129395578.jpg",
+    "publishedAt": "2023-04-18T03:37:14.204234Z",
+    "content": "A man has been charged with second-degree murder in the US after he allegedly shot and killed a 20-year-old woman as the car she was in mistakenly drove up the man's driveway.\r\nKaylin Gillis was with… [+1359 chars]"
+    },
+    {
+   "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: US accuses Lula of parroting propaganda",
+    "description": "Brazil denies its leader is spreading Russian and Chinese propaganda about the war in Ukraine.",
+    "url": "http://www.bbc.co.uk/news/world-latin-america-65307553",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C89F/production/_129395315_mediaitem129395575.jpg",
+    "publishedAt": "2023-04-18T03:22:14.1411837Z",
+    "content": "The White House has sharply criticised Brazilian President Luiz Inacio Lula da Silva for accusing the United States of \"encouraging\" the war in Ukraine.\r\nLula said after a visit to China at the weeke… [+1723 chars]"
+    },
+    {
+   "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Dadeville, Alabama, left without answers after deadly mass shooting",
+    "description": "People in the small US city show patience despite few details of who committed a deadly mass shooting.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65306781",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C705/production/_129394905_front.jpg",
+    "publishedAt": "2023-04-17T23:37:16.6715217Z",
+    "content": "Few details have emerged about Saturday's deadly mass shooting in a small Alabama city - and locals are waiting patiently for answers.\r\nDadeville Mayor Jimmy Frank Goodman Sr was visibly shaken as he… [+3185 chars]"
+    },
+    {
+   "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Alabama shooting: Phil Dowdell died saving sister's life",
+    "description": "Alexis Dowdell told the BBC her 18-year-old brother pushed her to the floor as gunfire erupted.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65275839",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DE11/production/_129394865_thumbnail_image0-1.jpg",
+    "publishedAt": "2023-04-17T21:52:16.8740913Z",
+    "content": "A teenager who was among four people killed in a mass shooting at a 16th birthday party in Alabama died saving his sister's life, say family.\r\nPhil Dowdell, 18, pushed the birthday girl, Alexis Dowde… [+1282 chars]"
+    },
+    {
+   "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Sudan fighting: EU ambassador assaulted in Khartoum home",
+    "description": "The ambassador is \"OK\" following the assault at his home in Khartoum, an EU spokesperson said.",
+    "url": "http://www.bbc.co.uk/news/world-africa-65306695",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/95C3/production/_129393383_318478537_1091679928185994_7681059226197660574_n.jpg",
+    "publishedAt": "2023-04-17T20:52:15.9370704Z",
+    "content": "The EU's ambassador in Sudan has been assaulted in his home in Khartoum, top EU diplomat Josep Borrell has said.\r\nMr Borrell did not reveal any details of the attack, but an EU spokeswoman said the a… [+1286 chars]"
+    }
+    ]
+    }
